@@ -51,15 +51,19 @@ I mostly work on web interfaces, creative browser projects, Roblox games, and Di
 
 ## ♡ featured works
 
-### 📸 [Y2k Cotton Candy Photobooth](https://github.com/sereiatalia/Y2k_Cotton_Candy_Photobooth)
+### 📸 Y2k Cotton Candy Photobooth
 
-A playful browser photobooth with a sweet Y2K/cotton-candy mood. It lets you take a photo, decorate the moment, and turn a simple camera interaction into something cute and shareable.
+A playful browser photobooth with a sweet Y2K/cotton-candy mood.
+
+[**Open the Photobooth web link →**](https://sereiatalia.github.io/Y2k_Cotton_Candy_Photobooth/) · [View source on GitHub](https://github.com/sereiatalia/Y2k_Cotton_Candy_Photobooth)
 
 **How it works:** open the web app, allow camera access, choose the visual style, capture a frame, and save your little memory. Built mainly with HTML, CSS, and JavaScript.
 
-### 📖 [When Tomorrow Remembers](https://github.com/sereiatalia/When-Tomorrow-Remembers)
+### 📖 When Tomorrow Remembers
 
 A story-driven project about memory, love, and the things people carry quietly.
+
+[**Read When Tomorrow Remembers →**](https://sereiatalia.github.io/When-Tomorrow-Remembers/) · [View source on GitHub](https://github.com/sereiatalia/When-Tomorrow-Remembers)
 
 **How it works:** explore the interactive pages, follow the characters' memories, and let the narrative unfold through its chapters and atmosphere. It is a creative web experience built with a modern TypeScript-based web stack.
 
