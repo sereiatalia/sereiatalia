@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/sereiatalia/sereiatalia/main/melody%20banner%20!.jpeg" alt="pink Melody banner" width="100%"/>
 
-# ˚. ᵎᵎ Aly / sereiatalia ♡
+# ˚. ᎎᎎ Aly / sereiatalia ♡
 
 ### (˶˃ ᵕ ˂˶) welcome to my little pink coding garden
 
@@ -16,7 +16,9 @@
 
 ---
 
-## ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔ about me
+## ₍^. .^₎⟆ 𐙚 about me
+
+> ⊹₊˚‧︵‿₍^. .^₎⟆‿︵‧˚₊⊹
 
 ૮꒰ ˶ᵔ ᕵ ᔵ˶ ꒱ა hi! I'm Aly, a front-end-focused developer who enjoys turning ideas into expressive, interactive experiences.
 
