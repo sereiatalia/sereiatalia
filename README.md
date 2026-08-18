@@ -4,11 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/sereiatalia/sereiatalia/main/melody%20banner%20!.jpeg" alt="pink Melody banner" width="100%"/>
 
-# ˚. ᎎᎎ Aly / sereiatalia ♡
+# Aly / sereiatalia ♡
 
-### (˶˃ ᵕ ˂˶) welcome to my little pink coding garden
+### (｡•ㅅ•｡) welcome to my little pink coding garden
 
-*front-end developer • creative coder • Roblox game maker • Discord bot app builder* ⋆˚꩜｡
+*front-end developer • creative coder • Roblox game maker • Discord bot app builder*
 
 [![GitHub](https://img.shields.io/badge/GitHub-ffb6d5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sereiatalia)
 
@@ -16,11 +16,11 @@
 
 ---
 
-## ₍^. .^₎⟆ 𐙚 about me
+## ₍^. .^₎⟆ about me
 
-> ⊹₊˚‧︵‿₍^. .^₎⟆‿︵‧˚₊⊹
+> ₍^. .^₎⟆ — a little about me — ♡
 
-૮꒰ ˶ᵔ ᕵ ᔵ˶ ꒱ა hi! I'm Aly, a front-end-focused developer who enjoys turning ideas into expressive, interactive experiences.
+(｡•ㅅ•｡) hi! I'm Aly, a front-end-focused developer who enjoys turning ideas into expressive, interactive experiences.
 
 I mostly work on web interfaces, creative browser projects, Roblox games, and Discord bot applications. I care about the small details: visuals, mood, interaction, and making technology feel approachable.
 
@@ -34,13 +34,13 @@ I mostly work on web interfaces, creative browser projects, Roblox games, and Di
 <img src="https://raw.githubusercontent.com/sereiatalia/sereiatalia/main/download%20(32).jpeg" alt="cute pink character" width="220"/>
 </div>
 
-## 𝜗ৎ languages I use
+## ♡ languages I use
 
 **Main languages:** HTML · CSS · JavaScript · TypeScript
 
 **Based on my published repositories:** HTML and JavaScript appear most often across my web projects, with TypeScript becoming an important part of my newer applications. I also use CSS heavily for visual design and responsive interfaces.
 
-## ⋆˚꩜｡ tools, apps & platforms
+## ♡ tools, apps & platforms
 
 - **Development:** Visual Studio Code · Git · GitHub
 - **Web:** HTML · CSS · JavaScript · TypeScript · React/Next.js-style projects
@@ -49,7 +49,7 @@ I mostly work on web interfaces, creative browser projects, Roblox games, and Di
 - **Community apps:** Discord · Discord Developer Portal · Discord bot development
 - **Creative workflow:** Canva · browser-based design tools
 
-## ⋆˚꩜｡ featured works
+## ♡ featured works
 
 ### 📸 [Y2k Cotton Candy Photobooth](https://github.com/sereiatalia/Y2k_Cotton_Candy_Photobooth)
 
@@ -67,7 +67,7 @@ A story-driven project about memory, love, and the things people carry quietly.
 <img src="https://raw.githubusercontent.com/sereiatalia/sereiatalia/main/Pink%20cd%20widget%F0%9F%92%BF%F0%9F%8C%B8.jpeg" alt="pink CD widget" width="250"/>
 </div>
 
-## ˎˊ˗ currently
+## ♡ currently
 
 ♡ polishing front-end skills  
 ♡ building game and bot ideas  
@@ -76,7 +76,7 @@ A story-driven project about memory, love, and the things people carry quietly.
 
 <div align="center">
 
-⤷ ゛ *thanks for visiting my corner of the internet* ♡
+*thanks for visiting my corner of the internet* ♡
 
 <img src="https://raw.githubusercontent.com/sereiatalia/sereiatalia/main/download%20(33).jpeg" alt="pink lollipop" width="180"/>
 
